@@ -1,0 +1,15 @@
+"NIce ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+Este es un escrito de prueba para probar algunas funcionalidades de vscode
+utilizamos la funcion de buscar, en conjunto a mach case
+tambien utilizamos el idnicador de columna y linea que se encuentran en la 
+linea inferior que es bastante util, para trabajar en equipo de programado
+res
+tambien sale el metodo de codificacion que en mi caso como estoy usando 
+linux utilizo lf, pero si estuviera en windows utilizaria crlf
